@@ -1,7 +1,7 @@
-# 🔦 16-Channel LED Chaser (Arduino Nano) — V3
+# 🔦 16-Channel LED Chaser (Arduino Nano) — V3.0
 
 This is the **third and most advanced version** of the 16-channel LED chaser.  
-It introduces **20+ unique chase effects**, offering complex and visually stunning LED sequences.
+It introduces **100 unique chase effects**, offering complex and visually stunning LED sequences.
 
 ---
 
@@ -19,7 +19,7 @@ The firmware is available in this folder:
 ---
 
 ## ⚡ Features
-- 16 LEDs with **20+ chase patterns**.  
+- 16 LEDs with **100 chase patterns**.  
 - Smooth transitions and customizable effects.  
 - Great for robotics, decoration, and stage lighting.  
 
@@ -28,7 +28,7 @@ The firmware is available in this folder:
 ## 🛠️ Hardware Required
 - Arduino Nano  
 - 16 LEDs  
-- 16 Resistors (220Ω recommended)  
+- 16 Resistors (330Ω recommended)  
 - Breadboard / PCB and jumper wires  
 
 ---

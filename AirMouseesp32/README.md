@@ -46,7 +46,8 @@ Typical dependencies:
 - **BleMouse** (for Bluetooth HID mouse functions)  
 - **Adafruit MPU6050** (for motion sensing)  
 - **Adafruit Sensor** (sensor abstraction)  
-- **Wire** (I²C communication)  
+- **Wire** (I²C communication - installed auto with ide installation)
+- **Adafruit BusIO** (for sensor)  
 
 ---
 
